@@ -1,0 +1,8 @@
+.strike {
+  border-color: #ccc !important;
+}
+
+.strike strong {
+  color: #ccc !important;
+  text-decoration: line-through;
+}
